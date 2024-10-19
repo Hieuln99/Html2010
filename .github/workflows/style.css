@@ -38,6 +38,13 @@ body {
   top: 80px;
 }
 
+.happy-woman-day1 {
+  color: white;
+  font-size: 50px;
+  position: fixed;
+  top: 30px;
+}
+
 .flowers {
   position: relative;
   transform: scale(0.9);
